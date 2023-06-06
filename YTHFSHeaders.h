@@ -6,6 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <rootless.h>
 
 @interface YTDoubleTapToSeekView : UIView
 
