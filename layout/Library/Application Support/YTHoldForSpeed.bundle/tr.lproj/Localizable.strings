@@ -1,0 +1,15 @@
+"HOLD_FOR_SPEED" = "Hız için tut";
+"NORMAL" = "Normal";
+"X_SECONDS" = "%@ saniye";
+"HOLD_GESTURE" = "Tutma jesti";
+"HOLD_GESTURE_DESC" = "Video oynatıcının herhangi bir yerine dokun ve basılı tut, oynatma hızını "Normal" (yani 1.0x) ve seçilen geçiş hızı arasında değiştirmek için.\n\nBu özelliği etkinleştirdiğinde, standart dokunma ve basılı tutma jestinin devre dışı bırakılacağını unutma.";
+"DISABLE_STOCK_GESTURES" = "Standart jestleri devre dışı bırak";
+"DISABLE_STOCK_GESTURES_DESC" = "Video oynatıcısındaki standart dokunma ve basılı tutma jestlerini devre dışı bırak.\n\nDikkat et, eğer tutma jesti etkinse, standart jestler otomatik olarak devre dışı bırakılacaktır.";
+"AUTO_APPLY_SPEED" = "Hızı otomatik uygula";
+"AUTO_APPLY_SPEED_DESC" = "Etkinleştirildiğinde, yeni bir video oynatıcı başlatıldığında seçilen oynatma hızı otomatik olarak uygulanır.";
+"TOGGLE_SPEED" = "Basılı Tutarkenki Hız";
+"TOGGLE_SPEED_DESC" = "Tutma jesti çağrıldığında video oynatıcının arasında geçiş yapacağı hız.";
+"HOLD_DURATION" = "Tutma süresi";
+"HOLD_DURATION_DESC" = "Video oynatıcının hızını değiştirmek için gereken süre (saniye cinsinden).";
+"HAPTIC_FEEDBACK" = "Dokunsal(Titreşimli) geribildirim";
+"HAPTIC_FEEDBACK_DESC" = "Video oynatıcının hızının değiştirildiğini bildirmek için Titreşimli dokunsal geribildirimi kullan.";
